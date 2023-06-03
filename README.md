@@ -1,0 +1,1 @@
+Modifies the ITSI sourcetype for perfmon metric data collection, that greatly reduces disk and license usage.
